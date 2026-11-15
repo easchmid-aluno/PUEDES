@@ -1,0 +1,73 @@
+{
+  "Cultura Pop": [
+    ["Netflix","YouTube"],["Cinema","Teatro"],["Instagram","TikTok"],
+    ["Harry Potter","Senhor dos Anéis"],["Marvel","DC"],["Spotify","Deezer"],
+    ["PlayStation","Xbox"],["WhatsApp","Telegram"],["Google","Bing"],
+    ["iPhone","Android"],["Batman","Super-Homem"],["Stranger Things","La Casa de Papel"],
+    ["Eminem","Jay-Z"],["Taylor Swift","Beyoncé"],["Breaking Bad","The Wire"],
+    ["Minecraft","Roblox"],["Disney","Pixar"],["Twitter","Threads"],
+    ["Twitch","YouTube Gaming"],["GTA","Red Dead Redemption"],["The Office","Friends"],
+    ["Naruto","Dragon Ball"],["Game of Thrones","The Witcher"],["Avengers","Liga da Justiça"]
+  ],
+  "Palavras Comuns & Objetos": [
+    ["Guarda-chuva","Botas"],["Escova de Dentes","Fio Dental"],["Sofá","Poltrona"],
+    ["Lâmpada","Vela"],["Mochila","Bolsa"],["Relógio","Calendário"],
+    ["Tesoura","Faca"],["Espelho","Vitrine"],["Travesseiro","Cobertor"],
+    ["Chave","Cadeado"],["Notebook","Tablet"],["Caneta","Lápis"],
+    ["Cadeira","Banco"],["Janela","Porta"],["Tapete","Capacho"],
+    ["Fogão","Forno"],["Geladeira","Freezer"],["Televisão","Monitor"],
+    ["Rádio","Caixa de Som"],["Vassoura","Rodo"],["Garrafa","Copo"],
+    ["Mapa","Bússola"],["Carteira","Bolsa Carteiro"]
+  ],
+  "Comidas & Bebidas": [
+    ["Sushi","Temaki"],["Pizza","Calzone"],["Hambúrguer","Cachorro-Quente"],
+    ["Sorvete","Frozen Yogurt"],["Café","Chá"],["Cerveja","Vinho"],
+    ["Bolo","Torta"],["Arroz","Macarrão"],["Brigadeiro","Beijinho"],
+    ["Churrasco","Espetinho"],["Lasanha","Nhoque"],["Tapioca","Panqueca"],
+    ["Açaí","Vitamina"],["Cheesecake","Pavê"],["Limonada","Suco"],
+    ["Chips","Pipoca"],["Pastel","Coxinha"],["Pão de Queijo","Biscoito de Polvilho"],
+    ["Feijão","Lentilha"],["Manga","Mamão"],["Chocolate","Cocada"],
+    ["Caipirinha","Mojito"],["Espaguete","Fetuccine"]
+  ],
+  "Lugares": [
+    ["Praia","Piscina"],["Montanha","Serra"],["Shopping","Feira"],
+    ["Academia","Parque"],["Biblioteca","Livraria"],["Hospital","Clínica"],
+    ["Escola","Universidade"],["Igreja","Templo"],["Aeroporto","Rodoviária"],
+    ["Hotel","Pousada"],["Restaurante","Lanchonete"],["Museu","Galeria de Arte"],
+    ["Banco","Casa Lotérica"],["Farmácia","Drogaria"],["Supermercado","Mercadinho"],
+    ["Estádio","Arena"],["Teatro","Ópera"],["Parque Nacional","Reserva Ecológica"],
+    ["Centro Histórico","Cidade Antiga"],["Favela","Comunidade"],["Metrô","Trem"],
+    ["Porto","Marina"],["Campo","Fazenda"]
+  ],
+  "Animais": [
+    ["Lobo","Cachorro"],["Leão","Tigre"],["Golfinho","Baleia"],
+    ["Águia","Gavião"],["Cobra","Lagarto"],["Elefante","Hipopótamo"],
+    ["Macaco","Chimpanzé"],["Pinguim","Foca"],["Abelha","Vespa"],
+    ["Borboleta","Mariposa"],["Cavalo","Zebra"],["Urso","Urso Polar"],
+    ["Crocodilo","Jacaré"],["Papagaio","Arara"],["Gato","Lince"],
+    ["Coelho","Lebre"],["Pato","Ganso"],["Tubarão","Arraia"],
+    ["Girafa","Camelo"],["Formiga","Cupim"],["Peixe","Lula"],
+    ["Pombo","Corvo"],["Raposa","Chacal"]
+  ],
+  "Profissões": [
+    ["Médico","Enfermeiro"],["Advogado","Juiz"],["Professor","Tutor"],
+    ["Arquiteto","Engenheiro Civil"],["Chef","Confeiteiro"],["Fotógrafo","Cinegrafista"],
+    ["Piloto","Comissário de Bordo"],["Policial","Guarda Municipal"],
+    ["Dentista","Ortodontista"],["Psicólogo","Psiquiatra"],["Jornalista","Âncora de TV"],
+    ["Designer","Ilustrador"],["Programador","Analista de Sistemas"],
+    ["Veterinário","Zootecnista"],["Bombeiro","Salva-vidas"],["Músico","DJ"],
+    ["Ator","Dublê"],["Nutricionista","Personal Trainer"],["Contador","Economista"],
+    ["Tradutor","Intérprete"],["Garçom","Barista"],["Farmacêutico","Bioquímico"],
+    ["Geólogo","Oceanógrafo"]
+  ],
+  "Esportes": [
+    ["Futebol","Futsal"],["Basquete","Vôlei"],["Natação","Polo Aquático"],
+    ["Tênis","Badminton"],["Boxe","MMA"],["Ciclismo","Triathlon"],
+    ["Ginástica Artística","Patinação Artística"],["Surf","Stand Up Paddle"],
+    ["Skate","Patinete"],["Corrida","Marcha Atlética"],["Handebol","Polo"],
+    ["Golfe","Críquete"],["Rugby","Futebol Americano"],["Judô","Caratê"],
+    ["Hipismo","Rodeio"],["Fórmula 1","MotoGP"],["Boliche","Sinuca"],
+    ["Xadrez","Damas"],["Escalada","Rapel"],["Arco e Flecha","Tiro ao Alvo"],
+    ["Vela","Remo"],["Luta Livre","Sumô"],["Beisebol","Softbol"]
+  ]
+}
